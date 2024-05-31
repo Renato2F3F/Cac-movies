@@ -1,5 +1,4 @@
 Trabajo integrador Grupo #18.
-Pre entrega.
 Integrantes:
   Matias Lucero
   Diego Palacios
